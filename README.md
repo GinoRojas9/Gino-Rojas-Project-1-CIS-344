@@ -12,5 +12,8 @@ This file contains the scripts necessary to utilize the workbench database and t
 Gino Rojas Project 1 documentation:
 This document contains the information that details the system requirements and decision making process, the Entities, attributes, relationships and cardinality requirements that are necessary for the creation of the database, the conclusion summary explaining my experience with the interview and the appendix that contains additional information about the interview.
 
+Gino Rojas Project 1 final report:
+This document contains a summary that explains the scope that I had for the project, that challenges that I have came across throughout my time working on the project and the results of the projects after overcoming the challenges.
+
 Project 1 sql source code:
 This document contain the script that creates the database and tables that were created for the workbench.
